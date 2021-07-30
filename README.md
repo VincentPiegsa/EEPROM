@@ -11,6 +11,6 @@ Supports of parallel EEPROM in PDIP-28 Package with up to 256kB of memory, like 
 The schematics are made with [KiCAD](https://www.kicad.org/).
 
 # What's next?
-Further improvements and additions to the already existing schematic desings and software will be implemented:
+Further improvements and additions to the already existing schematic designs and software will be implemented:
 * Support for serial EEPROM
 * Support for .bin and .hex files, additionally Intel® Hex Format
